@@ -11,9 +11,9 @@
 ## [Fast Fourier Transform](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/FFT)
 ### FFT Signal
 - [Gibb Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/gibb.m)
-- FFT single Signal
-- FFT double Signal
-- FFT Four Signal
-- FFT six Signal
+- [FFT single Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_single_sig.m)
+- [FFT double Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_double_sig.m)
+- [FFT Four Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_four_sig.m)
+- [FFT six Signal]((https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_six_sig.m)
 
 
