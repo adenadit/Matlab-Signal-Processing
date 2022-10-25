@@ -11,6 +11,8 @@
 ## [Fast Fourier Transform](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/FFT)
 ### FFT Signal
 - [Gibb Phenomenon](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/gibb.m)
+   Fenomena Gibb merupakan  efek riak yang terjadi pada bagian pojok pada
+gelombang kotak maupun sinyal lain
 - [FFT single Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_single_sig.m)
 - [FFT double Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_double_sig.m)
 - [FFT Four Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_four_sig.m)
