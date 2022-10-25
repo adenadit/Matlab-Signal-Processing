@@ -10,7 +10,7 @@
 - Random Signal
 ## [Fast Fourier Transform](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/FFT)
 ### FFT Signal
-- [Gibb Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/gibb.m)
+- [Gibb Phenomenon](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/gibb.m)
 - [FFT single Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_single_sig.m)
 - [FFT double Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_double_sig.m)
 - [FFT Four Signal](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/FFT_four_sig.m)
