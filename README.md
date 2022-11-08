@@ -15,6 +15,8 @@
 
 ## [Filter](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/Signal%20and%20System)
 - Lowpass Analog
+- Filter FIR
+- Filter IIR
 
 ## [Fast Fourier Transform](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/FFT)
 ### FFT Signal
