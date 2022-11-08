@@ -8,6 +8,14 @@
 - Step Signal
 - Exponential Signal
 - Random Signal
+
+## [Aliasing Effect](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/Signal%20and%20System)
+- Time effect aliasing
+- Frequency effect aliasing
+
+## [Filter](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/Signal%20and%20System)
+- Lowpass Analog
+
 ## [Fast Fourier Transform](https://github.com/adenadit/Matlab-Signal-Processing/tree/main/FFT)
 ### FFT Signal
 - [Gibb Phenomenon](https://github.com/adenadit/Matlab-Signal-Processing/blob/main/FFT/gibb.m)
